@@ -8,6 +8,8 @@ This repo talks mathematics of machine learning, concepts that are built on line
 
 * [Matrices as Linear Maps](#matrices-as-linear-maps)
 * [Powerful Eigenvectors](#powerful-eigenvectors)
+* [Limitations of Summary Statistics](#limitations-of-summary-statistics)
+
 
 
 ## Matrices as Linear Maps
@@ -17,3 +19,7 @@ This project talks about how matrices can be seen as transformation functions. T
 ## Powerful Eigenvectors
 
 This project talks about how eigenvectors characterize matrices. This is very powerful and used in many important concepts in macnine learning.
+
+## Limitations of Summary Statistics
+
+This project talks limitations of summary statistics and how it can be tricky when it comes to describing probability distributions.
