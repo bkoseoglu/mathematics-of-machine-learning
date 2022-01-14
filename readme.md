@@ -9,6 +9,7 @@ This repo talks mathematics of machine learning, concepts that are built on line
 * [Matrices as Linear Maps](#matrices-as-linear-maps)
 * [Powerful Eigenvectors](#powerful-eigenvectors)
 * [Limitations of Summary Statistics](#limitations-of-summary-statistics)
+* [Maximum Likelihood Estimation](#maximum-likelihood-estimation)
 
 
 
@@ -23,3 +24,7 @@ This project talks about how eigenvectors characterize matrices. This is very po
 ## Limitations of Summary Statistics
 
 This project talks limitations of summary statistics and how it can be tricky when it comes to describing probability distributions.
+
+## Maximum Likelihood estimation
+
+This project talks about maximum likelihood estimation for parameters of various models. It also provides a practical example, a GaussianClassifier which predicts customer churn.
